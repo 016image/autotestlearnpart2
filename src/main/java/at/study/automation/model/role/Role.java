@@ -1,7 +1,11 @@
 package at.study.automation.model.role;
 
-public class Role {
+import at.study.automation.model.Entity;
 
-    // TODO:
-
+public class Role extends Entity  {
+    private String name;
+    private Integer position;
+    private Boolean assignable;
+    private Integer builtin;
+    private String permissions;
 }
