@@ -13,5 +13,4 @@ public abstract class CreatableEntity extends Entity {
 
     protected LocalDateTime createdOn = LocalDateTime.now();
     protected LocalDateTime updatedOn = LocalDateTime.now();
-
 }

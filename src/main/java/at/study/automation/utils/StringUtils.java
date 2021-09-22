@@ -37,5 +37,4 @@ public class StringUtils {
         }
         return sb.toString();
     }
-
 }

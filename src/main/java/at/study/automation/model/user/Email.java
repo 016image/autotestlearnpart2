@@ -22,5 +22,4 @@ public class Email extends CreatableEntity implements Creatable<Email> {
         // TODO: Реализовать с помощью SQL-Запроса
         throw new UnsupportedOperationException();
     }
-
 }

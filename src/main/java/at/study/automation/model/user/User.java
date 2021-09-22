@@ -60,5 +60,4 @@ public class User extends CreatableEntity implements Creatable<User> {
     public void addProject(Project project, List<Role> roles) {
         // TODO: Реализовать с помощью SQL-запроса
     }
-
 }

@@ -11,5 +11,4 @@ public enum MailNotification {
     NONE("Нет событий");
 
     private final String description;
-
 }
